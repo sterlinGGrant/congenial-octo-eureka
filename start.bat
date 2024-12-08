@@ -1,0 +1,1 @@
+python ustanovka.py
